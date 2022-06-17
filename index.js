@@ -1,7 +1,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs') //file system
 const generateMarkdown = require('./utils/generateMarkdown')
-var location = "./README.md"
+var location = "./utils/README.md"
 // TODO: Include packages needed for this application
 
 // TODO: Create an array of questions for user input
@@ -42,6 +42,7 @@ const questions = [
             "MIT",
             "Apache",
             "Mozilla",
+            "None"
         ],
         message: "What is the license for this project?",
         name: "license"
@@ -55,6 +56,11 @@ const questions = [
         type: "input",
         message: "How do you test your project?",
         name: "tests"
+    },
+    {
+        type: "input",
+        message: "Any Questions for this project?",
+        name: "questions"
     },
 ];
 
