@@ -1,24 +1,21 @@
+# Description
 
-# d
+    - Our challenge for this project was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. Creating HTML and CSS wasn't needed for this assignment.
+## Generate Markdown
 
-## Description
-d
+    In this file you will see:
 
-## Table of Contents
+    - The markdown syntax for creating Licence Badges, Links and Sections.
+    - Syntax for creating the Table of Contents.
+    - A module exports call.
+## Index.js File
 
-undefined
+    In this file you will see:
 
-### Installation
-undefined
-### Usage
-undefined
-### Licence
-undefined
-### Contributing
-undefined
+    - The creation of an array, which contains questions for the user to answer
+      when trying to use this application.
+    - Along with a function called "init" to intiate this application
 
-### Tests 
-undefined
+## Link to Walk Through Video
 
-### Questions
-undefined
+https://drive.google.com/file/d/1Sms_Voeo8YtO84Qb06T_hGo14l1LbS-R/view
