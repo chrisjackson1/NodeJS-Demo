@@ -1,29 +1,30 @@
 
-  
-# d
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Node Demo
 
 ## Description
-d
+Taking in information and putting it on a README file
 
 ## Table of Contents
 * [Installation](#installation)
 * [Questions](#questions)
 * [Contribution](#contribution)
-
+* [Licence](#license)
 * [Usage](#usage)
 * [Tests](#tests)
 * [Questions](#questions)
 
 ### Installation
-d
+youll figure it out
 ### Usage
-d
+type things and figure it out
 
-
+### Licence
+ MIT
 ### Contribution
-d
+My answering the questions in place!
 ### Tests 
-d
+by testing 
 ### Questions
-
-d
+chrisjackson1
+cj310@scarletmail.rutgers.edu
